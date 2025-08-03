@@ -43,11 +43,3 @@ To identify meaningful customer segments using the **UCI Bank Marketing dataset*
 
 
 
-## Sample Insights
-
-| Segment | Profile                                     | Suggested Action                                |
-|---------|---------------------------------------------|--------------------------------------------------|
-| 0       | Older clients, high balance, low contact    | Target for long-term deposits with direct calls  |
-| 1       | Young professionals, responsive to emails   | Use digital marketing & flexible savings offers  |
-| 2       | Students/unemployed, low engagement         | Deprioritize in short-term campaign investment   |
-
